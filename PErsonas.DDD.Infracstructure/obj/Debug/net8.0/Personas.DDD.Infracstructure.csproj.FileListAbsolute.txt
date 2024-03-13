@@ -1,0 +1,15 @@
+C:\PersonasDDD\PErsonas.DDD.Infracstructure\bin\Debug\net8.0\Personas.DDD.Infracstructure.deps.json
+C:\PersonasDDD\PErsonas.DDD.Infracstructure\bin\Debug\net8.0\Personas.DDD.Infracstructure.dll
+C:\PersonasDDD\PErsonas.DDD.Infracstructure\bin\Debug\net8.0\Personas.DDD.Infracstructure.pdb
+C:\PersonasDDD\PErsonas.DDD.Infracstructure\bin\Debug\net8.0\Personas.DDD.Domain.dll
+C:\PersonasDDD\PErsonas.DDD.Infracstructure\bin\Debug\net8.0\Personas.DDD.Domain.pdb
+C:\PersonasDDD\PErsonas.DDD.Infracstructure\obj\Debug\net8.0\Personas.DDD.Infracstructure.csproj.AssemblyReference.cache
+C:\PersonasDDD\PErsonas.DDD.Infracstructure\obj\Debug\net8.0\Personas.DDD.Infracstructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PersonasDDD\PErsonas.DDD.Infracstructure\obj\Debug\net8.0\Personas.DDD.Infracstructure.AssemblyInfoInputs.cache
+C:\PersonasDDD\PErsonas.DDD.Infracstructure\obj\Debug\net8.0\Personas.DDD.Infracstructure.AssemblyInfo.cs
+C:\PersonasDDD\PErsonas.DDD.Infracstructure\obj\Debug\net8.0\Personas.DDD.Infracstructure.csproj.CoreCompileInputs.cache
+C:\PersonasDDD\PErsonas.DDD.Infracstructure\obj\Debug\net8.0\Personas.0B422BC8.Up2Date
+C:\PersonasDDD\PErsonas.DDD.Infracstructure\obj\Debug\net8.0\Personas.DDD.Infracstructure.dll
+C:\PersonasDDD\PErsonas.DDD.Infracstructure\obj\Debug\net8.0\refint\Personas.DDD.Infracstructure.dll
+C:\PersonasDDD\PErsonas.DDD.Infracstructure\obj\Debug\net8.0\Personas.DDD.Infracstructure.pdb
+C:\PersonasDDD\PErsonas.DDD.Infracstructure\obj\Debug\net8.0\ref\Personas.DDD.Infracstructure.dll

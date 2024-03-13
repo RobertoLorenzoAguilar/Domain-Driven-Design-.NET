@@ -1,0 +1,235 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\PersonasDDD\\PersonasDDD\\PersonasDDD.csproj": {}
+  },
+  "projects": {
+    "C:\\PersonasDDD\\PErsonas.DDD.Infracstructure\\Personas.DDD.Infracstructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PersonasDDD\\PErsonas.DDD.Infracstructure\\Personas.DDD.Infracstructure.csproj",
+        "projectName": "Personas.DDD.Infracstructure",
+        "projectPath": "C:\\PersonasDDD\\PErsonas.DDD.Infracstructure\\Personas.DDD.Infracstructure.csproj",
+        "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
+        "outputPath": "C:\\PersonasDDD\\PErsonas.DDD.Infracstructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\PersonasDDD\\PersonasDDD.Domain\\Personas.DDD.Domain.csproj": {
+                "projectPath": "C:\\PersonasDDD\\PersonasDDD.Domain\\Personas.DDD.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PersonasDDD\\PersonasDDD.Domain\\Personas.DDD.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PersonasDDD\\PersonasDDD.Domain\\Personas.DDD.Domain.csproj",
+        "projectName": "Personas.DDD.Domain",
+        "projectPath": "C:\\PersonasDDD\\PersonasDDD.Domain\\Personas.DDD.Domain.csproj",
+        "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
+        "outputPath": "C:\\PersonasDDD\\PersonasDDD.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PersonasDDD\\PersonasDDD\\PersonasDDD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PersonasDDD\\PersonasDDD\\PersonasDDD.csproj",
+        "projectName": "PersonasDDD",
+        "projectPath": "C:\\PersonasDDD\\PersonasDDD\\PersonasDDD.csproj",
+        "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
+        "outputPath": "C:\\PersonasDDD\\PersonasDDD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\PersonasDDD\\PErsonas.DDD.Infracstructure\\Personas.DDD.Infracstructure.csproj": {
+                "projectPath": "C:\\PersonasDDD\\PErsonas.DDD.Infracstructure\\Personas.DDD.Infracstructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.24.0, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
