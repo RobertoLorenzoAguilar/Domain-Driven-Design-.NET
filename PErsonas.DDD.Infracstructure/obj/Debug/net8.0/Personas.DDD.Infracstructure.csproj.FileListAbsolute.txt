@@ -13,3 +13,4 @@ C:\PersonasDDD\PErsonas.DDD.Infracstructure\obj\Debug\net8.0\Personas.DDD.Infrac
 C:\PersonasDDD\PErsonas.DDD.Infracstructure\obj\Debug\net8.0\refint\Personas.DDD.Infracstructure.dll
 C:\PersonasDDD\PErsonas.DDD.Infracstructure\obj\Debug\net8.0\Personas.DDD.Infracstructure.pdb
 C:\PersonasDDD\PErsonas.DDD.Infracstructure\obj\Debug\net8.0\ref\Personas.DDD.Infracstructure.dll
+C:\PersonasDDD\PErsonas.DDD.Infracstructure\obj\Debug\net8.0\Personas.DDD.Infracstructure.sourcelink.json

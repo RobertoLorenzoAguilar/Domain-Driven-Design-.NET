@@ -98,3 +98,4 @@ C:\PersonasDDD\PersonasDDD\bin\Debug\net8.0\Snappier.dll
 C:\PersonasDDD\PersonasDDD\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
 C:\PersonasDDD\PersonasDDD\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
 C:\PersonasDDD\PersonasDDD\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\PersonasDDD\PersonasDDD\obj\Debug\net8.0\PersonasDDD.sourcelink.json

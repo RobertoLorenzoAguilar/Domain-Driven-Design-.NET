@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\PersonasDDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{403F9351-FA4C-448C-BB1B-F4A95461CF7D}|PersonasDDD\\PersonasDDD.csproj|c:\\personasddd\\personasddd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{403F9351-FA4C-448C-BB1B-F4A95461CF7D}|PersonasDDD\\PersonasDDD.csproj|solutionrelative:personasddd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A73CD36B-1037-4EEB-B626-E385DC88EDF3}|PErsonas.DDD.Infracstructure\\Personas.DDD.Infracstructure.csproj|c:\\personasddd\\personas.ddd.infracstructure\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A73CD36B-1037-4EEB-B626-E385DC88EDF3}|PErsonas.DDD.Infracstructure\\Personas.DDD.Infracstructure.csproj|solutionrelative:personas.ddd.infracstructure\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{403F9351-FA4C-448C-BB1B-F4A95461CF7D}|PersonasDDD\\PersonasDDD.csproj|c:\\personasddd\\personasddd\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403F9351-FA4C-448C-BB1B-F4A95461CF7D}|PersonasDDD\\PersonasDDD.csproj|solutionrelative:personasddd\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A73CD36B-1037-4EEB-B626-E385DC88EDF3}|PErsonas.DDD.Infracstructure\\Personas.DDD.Infracstructure.csproj|c:\\personasddd\\personas.ddd.infracstructure\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A73CD36B-1037-4EEB-B626-E385DC88EDF3}|PErsonas.DDD.Infracstructure\\Personas.DDD.Infracstructure.csproj|solutionrelative:personas.ddd.infracstructure\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CC2187-42E6-48EA-8AC8-012EA9839CD6}|PersonasDDD.Domain\\Personas.DDD.Domain.csproj|c:\\personasddd\\personasddd.domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CC2187-42E6-48EA-8AC8-012EA9839CD6}|PersonasDDD.Domain\\Personas.DDD.Domain.csproj|solutionrelative:personasddd.domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403F9351-FA4C-448C-BB1B-F4A95461CF7D}|PersonasDDD\\PersonasDDD.csproj|c:\\personasddd\\personasddd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403F9351-FA4C-448C-BB1B-F4A95461CF7D}|PersonasDDD\\PersonasDDD.csproj|solutionrelative:personasddd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403F9351-FA4C-448C-BB1B-F4A95461CF7D}|PersonasDDD\\PersonasDDD.csproj|c:\\personasddd\\personasddd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{403F9351-FA4C-448C-BB1B-F4A95461CF7D}|PersonasDDD\\PersonasDDD.csproj|solutionrelative:personasddd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CC2187-42E6-48EA-8AC8-012EA9839CD6}|PersonasDDD.Domain\\Personas.DDD.Domain.csproj|c:\\personasddd\\personasddd.domain\\repositories\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CC2187-42E6-48EA-8AC8-012EA9839CD6}|PersonasDDD.Domain\\Personas.DDD.Domain.csproj|solutionrelative:personasddd.domain\\repositories\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +38,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\PersonasDDD\\PersonasDDD.Domain\\Entities\\Persona.cs",
+              "RelativeDocumentMoniker": "PersonasDDD.Domain\\Entities\\Persona.cs",
+              "ToolTip": "C:\\PersonasDDD\\PersonasDDD.Domain\\Entities\\Persona.cs",
+              "RelativeToolTip": "PersonasDDD.Domain\\Entities\\Persona.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:37:38.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\PersonasDDD\\PersonasDDD.Domain\\Repositories\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "PersonasDDD.Domain\\Repositories\\IPersonRepository.cs",
+              "ToolTip": "C:\\PersonasDDD\\PersonasDDD.Domain\\Repositories\\IPersonRepository.cs",
+              "RelativeToolTip": "PersonasDDD.Domain\\Repositories\\IPersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:37:17.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\PersonasDDD\\PersonasDDD\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "PersonasDDD\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\PersonasDDD\\PersonasDDD\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "PersonasDDD\\Controllers\\PersonaController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:37:02.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\PersonasDDD\\PersonasDDD\\appsettings.json",
+              "RelativeDocumentMoniker": "PersonasDDD\\appsettings.json",
+              "ToolTip": "C:\\PersonasDDD\\PersonasDDD\\appsettings.json",
+              "RelativeToolTip": "PersonasDDD\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T19:28:12.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\PersonasDDD\\PersonasDDD\\Program.cs",
               "RelativeDocumentMoniker": "PersonasDDD\\Program.cs",
               "ToolTip": "C:\\PersonasDDD\\PersonasDDD\\Program.cs",
               "RelativeToolTip": "PersonasDDD\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAiwBMAAAA3AAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwBIAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T19:21:45.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PersonRepository.cs",
               "DocumentMoniker": "C:\\PersonasDDD\\PErsonas.DDD.Infracstructure\\PersonRepository.cs",
               "RelativeDocumentMoniker": "PErsonas.DDD.Infracstructure\\PersonRepository.cs",
               "ToolTip": "C:\\PersonasDDD\\PErsonas.DDD.Infracstructure\\PersonRepository.cs",
               "RelativeToolTip": "PErsonas.DDD.Infracstructure\\PersonRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T19:21:40.96Z",
               "EditorCaption": ""
@@ -58,7 +126,7 @@
               "RelativeDocumentMoniker": "PErsonas.DDD.Infracstructure\\DataBaseContext.cs",
               "ToolTip": "C:\\PersonasDDD\\PErsonas.DDD.Infracstructure\\DataBaseContext.cs",
               "RelativeToolTip": "PErsonas.DDD.Infracstructure\\DataBaseContext.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T19:21:31.235Z",
               "EditorCaption": ""

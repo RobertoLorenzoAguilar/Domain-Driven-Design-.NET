@@ -16,8 +16,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<DataBaseContext>(options =>
 {
     //options.UseMySQL(builder.Configuration.GetConnectionString("cadenaMySql"));
-    options.UseNpgsql(builder.Configuration.GetConnectionString("cadenaPostgresSql"));
-    //options.UseSqlServer(builder.Configuration.GetConnectionString("cadenaSql"));    
+    //options.UseNpgsql(builder.Configuration.GetConnectionString("cadenaPostgresSql"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("cadenaSql"));
 
     //string tipoDeConexion = Environment.GetEnvironmentVariable("TIPO_DE_CONEXION");
 

@@ -9,3 +9,4 @@ C:\PersonasDDD\PersonasDDD.Domain\obj\Debug\net8.0\Personas.DDD.Domain.dll
 C:\PersonasDDD\PersonasDDD.Domain\obj\Debug\net8.0\refint\Personas.DDD.Domain.dll
 C:\PersonasDDD\PersonasDDD.Domain\obj\Debug\net8.0\Personas.DDD.Domain.pdb
 C:\PersonasDDD\PersonasDDD.Domain\obj\Debug\net8.0\ref\Personas.DDD.Domain.dll
+C:\PersonasDDD\PersonasDDD.Domain\obj\Debug\net8.0\Personas.DDD.Domain.sourcelink.json
