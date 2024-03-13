@@ -1,4 +1,4 @@
-# Proyecto XYZ - En Mantenimiento
+# Proyecto DDD .NET - En Mantenimiento
 
 Este proyecto se encuentra actualmente en mantenimiento. Por favor, ten en cuenta que algunas funcionalidades pueden estar deshabilitadas o incompletas durante este período. Si tienes alguna pregunta o necesitas asistencia, no dudes en contactar al equipo de desarrollo.
 
