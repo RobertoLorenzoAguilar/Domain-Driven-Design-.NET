@@ -18,6 +18,23 @@ builder.Services.AddDbContext<DataBaseContext>(options =>
     //options.UseMySQL(builder.Configuration.GetConnectionString("cadenaMySql"));
     options.UseNpgsql(builder.Configuration.GetConnectionString("cadenaPostgresSql"));
     //options.UseSqlServer(builder.Configuration.GetConnectionString("cadenaSql"));    
+
+    //string tipoDeConexion = Environment.GetEnvironmentVariable("TIPO_DE_CONEXION");
+
+    //if (tipoDeConexion == "MySQL")
+    //{
+    //    options.UseMySQL(builder.Configuration.GetConnectionString("cadenaMySql"));
+    //}
+    //else if (tipoDeConexion == "PostgreSQL")
+    //{
+    //    options.UseNpgsql(builder.Configuration.GetConnectionString("cadenaPostgresSql"));
+    //}
+    //else if (tipoDeConexion == "SQLServer")
+    //{
+    //    options.UseSqlServer(builder.Configuration.GetConnectionString("cadenaSql"));
+    //}
+
+
 }
 );
 
